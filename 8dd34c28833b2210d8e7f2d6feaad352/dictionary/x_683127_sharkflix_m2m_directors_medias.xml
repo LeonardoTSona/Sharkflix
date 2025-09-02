@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c29d49788333a210d8e7f2d6feaad308" label="x_683127_sharkflix_m2m_Directors_Medias" max_length="40" name="x_683127_sharkflix_m2m_directors_medias" type="collection">
+        <element attributes="encode_utf8=false" label="Medias" max_length="32" name="x_683127_sharkflix_media" reference="x_683127_sharkflix_media" type="reference"/>
+        <element attributes="encode_utf8=false" label="Directors" max_length="32" name="x_683127_sharkflix_director" reference="x_683127_sharkflix_director" type="reference"/>
+        <index name="index">
+            <element name="x_683127_sharkflix_director"/>
+        </index>
+        <index name="index2">
+            <element name="x_683127_sharkflix_media"/>
+        </index>
+    </element>
+</database>
