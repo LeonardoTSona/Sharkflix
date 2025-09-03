@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>website</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-03 13:29:30</sys_created_on>
+        <sys_id>b6193c498373e210d8e7f2d6feaad3af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>website</sys_name>
+        <sys_package display_value="Sharkflix" source="x_683127_sharkflix">8dd34c28833b2210d8e7f2d6feaad352</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sharkflix">8dd34c28833b2210d8e7f2d6feaad352</sys_scope>
+        <sys_update_name>sys_ui_policy_action_b6193c498373e210d8e7f2d6feaad3af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-03 13:29:30</sys_updated_on>
+        <table>x_683127_sharkflix_media</table>
+        <ui_policy display_value="Omit website when empty/blank">43e774098373e210d8e7f2d6feaad3d0</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=b6193c498373e210d8e7f2d6feaad3af"/>
+</record_update>
