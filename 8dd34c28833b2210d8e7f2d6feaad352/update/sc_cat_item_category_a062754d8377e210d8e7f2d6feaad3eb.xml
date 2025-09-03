@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Create a media review">588179c98377e210d8e7f2d6feaad3c3</sc_cat_item>
+        <sc_category display_value="Sharkflix">a22e9d058337e210d8e7f2d6feaad313</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-03 17:39:07</sys_created_on>
+        <sys_id>a062754d8377e210d8e7f2d6feaad3eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sharkflix.Create a media review</sys_name>
+        <sys_package display_value="Sharkflix" source="x_683127_sharkflix">8dd34c28833b2210d8e7f2d6feaad352</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sharkflix">8dd34c28833b2210d8e7f2d6feaad352</sys_scope>
+        <sys_update_name>sc_cat_item_category_a062754d8377e210d8e7f2d6feaad3eb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-03 17:39:07</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
