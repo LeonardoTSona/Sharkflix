@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
-        <catalog_item display_value="Create a media review">588179c98377e210d8e7f2d6feaad3c3</catalog_item>
-        <catalog_variable>IO:2e935a45833be210d8e7f2d6feaad3db</catalog_variable>
+        <catalog_item display_value="Copy of Create a media review">8614dadd83b32210d8e7f2d6feaad373</catalog_item>
+        <catalog_variable>IO:5614dadd83b32210d8e7f2d6feaad3d5</catalog_variable>
         <cleared>false</cleared>
         <disabled>true</disabled>
         <field/>
@@ -11,23 +11,23 @@
         <order>90</order>
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-09-04 12:56:51</sys_created_on>
-        <sys_id>685b791183732210d8e7f2d6feaad312</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>synopsis</sys_name>
+        <sys_created_on>2025-09-04 14:44:55</sys_created_on>
+        <sys_id>2a141edd83b32210d8e7f2d6feaad342</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>average_rating</sys_name>
         <sys_package display_value="Sharkflix" source="x_683127_sharkflix">8dd34c28833b2210d8e7f2d6feaad352</sys_package>
         <sys_policy/>
         <sys_scope display_value="Sharkflix">8dd34c28833b2210d8e7f2d6feaad352</sys_scope>
-        <sys_update_name>catalog_ui_policy_action_685b791183732210d8e7f2d6feaad312</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2025-09-04 17:15:11</sys_updated_on>
+        <sys_update_name>catalog_ui_policy_action_2a141edd83b32210d8e7f2d6feaad342</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-04 14:44:55</sys_updated_on>
         <table/>
-        <ui_policy display_value="Show media data when media is selected">743bb55d83332210d8e7f2d6feaad3c2</ui_policy>
+        <ui_policy display_value="Show media data when media is selected">62141edd83b32210d8e7f2d6feaad339</ui_policy>
         <value/>
         <value_action>ignore</value_action>
-        <variable>synopsis</variable>
+        <variable>average_rating</variable>
         <variable_set/>
         <visible>true</visible>
     </catalog_ui_policy_action>
-    <sys_translated_text action="delete_multiple" query="documentkey=685b791183732210d8e7f2d6feaad312"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=2a141edd83b32210d8e7f2d6feaad342"/>
 </record_update>
