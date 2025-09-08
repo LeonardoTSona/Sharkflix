@@ -2,6 +2,7 @@
     <element db_object_id="dbaa776483bb6210d8e7f2d6feaad307" label="Media" max_length="40" name="x_683127_sharkflix_media" type="collection">
         <element label="Production" max_length="250" name="production" type="string"/>
         <element label="Genre" max_length="1024" name="genre" reference="x_683127_sharkflix_genre" type="glide_list"/>
+        <element label="Release Year" max_length="4" name="release_year" type="string"/>
         <element default="0" label="Average Rating" max_length="255" name="average_rating" type="float"/>
         <element label="Writers" max_length="4000" name="writers" type="string"/>
         <element choice="1" label="Type" max_length="40" name="type" type="choice">

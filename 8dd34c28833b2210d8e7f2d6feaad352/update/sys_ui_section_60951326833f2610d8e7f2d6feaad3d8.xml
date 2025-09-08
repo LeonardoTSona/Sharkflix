@@ -4,13 +4,13 @@
             <element>poster</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-08 16:56:26</sys_created_on>
-            <sys_id>c0985be6833f2610d8e7f2d6feaad36c</sys_id>
+            <sys_created_on>2025-09-08 20:08:49</sys_created_on>
+            <sys_id>42940cfa83ff2610d8e7f2d6feaad362</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Media" display_value="Media" name="x_683127_sharkflix_media" sys_domain="global" view="Default view">60951326833f2610d8e7f2d6feaad3d8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-08 16:56:26</sys_updated_on>
+            <sys_updated_on>2025-09-08 20:08:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>x_683127_sharkflix_poster.xml</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-08 16:56:26</sys_created_on>
-            <sys_id>48985be6833f2610d8e7f2d6feaad36c</sys_id>
+            <sys_created_on>2025-09-08 20:08:49</sys_created_on>
+            <sys_id>0e940cfa83ff2610d8e7f2d6feaad362</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter display_value="poster">0a90576e83fb2610d8e7f2d6feaad3fb</sys_ui_formatter>
             <sys_ui_section caption="Media" display_value="Media" name="x_683127_sharkflix_media" sys_domain="global" view="Default view">60951326833f2610d8e7f2d6feaad3d8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-08 16:56:26</sys_updated_on>
+            <sys_updated_on>2025-09-08 20:08:49</sys_updated_on>
             <sys_user/>
             <type>formatter</type>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>title</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-08 16:56:26</sys_created_on>
-            <sys_id>40985be6833f2610d8e7f2d6feaad36d</sys_id>
+            <sys_created_on>2025-09-08 20:08:49</sys_created_on>
+            <sys_id>06940cfa83ff2610d8e7f2d6feaad363</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Media" display_value="Media" name="x_683127_sharkflix_media" sys_domain="global" view="Default view">60951326833f2610d8e7f2d6feaad3d8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-08 16:56:26</sys_updated_on>
+            <sys_updated_on>2025-09-08 20:08:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>.begin_split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-08 16:56:26</sys_created_on>
-            <sys_id>c4985be6833f2610d8e7f2d6feaad36d</sys_id>
+            <sys_created_on>2025-09-08 20:08:49</sys_created_on>
+            <sys_id>8a940cfa83ff2610d8e7f2d6feaad363</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Media" display_value="Media" name="x_683127_sharkflix_media" sys_domain="global" view="Default view">60951326833f2610d8e7f2d6feaad3d8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-08 16:56:26</sys_updated_on>
+            <sys_updated_on>2025-09-08 20:08:49</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>type</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-08 16:56:26</sys_created_on>
-            <sys_id>4c985be6833f2610d8e7f2d6feaad36d</sys_id>
+            <sys_created_on>2025-09-08 20:08:49</sys_created_on>
+            <sys_id>02940cfa83ff2610d8e7f2d6feaad364</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Media" display_value="Media" name="x_683127_sharkflix_media" sys_domain="global" view="Default view">60951326833f2610d8e7f2d6feaad3d8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-08 16:56:26</sys_updated_on>
+            <sys_updated_on>2025-09-08 20:08:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>genre</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-08 16:56:26</sys_created_on>
-            <sys_id>c0985be6833f2610d8e7f2d6feaad36e</sys_id>
+            <sys_created_on>2025-09-08 20:08:49</sys_created_on>
+            <sys_id>86940cfa83ff2610d8e7f2d6feaad364</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Media" display_value="Media" name="x_683127_sharkflix_media" sys_domain="global" view="Default view">60951326833f2610d8e7f2d6feaad3d8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-08 16:56:26</sys_updated_on>
+            <sys_updated_on>2025-09-08 20:08:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,111 +88,125 @@
             <element>.split</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-08 16:56:26</sys_created_on>
-            <sys_id>48985be6833f2610d8e7f2d6feaad36e</sys_id>
+            <sys_created_on>2025-09-08 20:08:49</sys_created_on>
+            <sys_id>0e940cfa83ff2610d8e7f2d6feaad364</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Media" display_value="Media" name="x_683127_sharkflix_media" sys_domain="global" view="Default view">60951326833f2610d8e7f2d6feaad3d8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-08 16:56:26</sys_updated_on>
+            <sys_updated_on>2025-09-08 20:08:49</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>release_date</element>
+            <element>release_year</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-08 16:56:26</sys_created_on>
-            <sys_id>cc985be6833f2610d8e7f2d6feaad36e</sys_id>
+            <sys_created_on>2025-09-08 20:08:49</sys_created_on>
+            <sys_id>82940cfa83ff2610d8e7f2d6feaad365</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Media" display_value="Media" name="x_683127_sharkflix_media" sys_domain="global" view="Default view">60951326833f2610d8e7f2d6feaad3d8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-08 16:56:26</sys_updated_on>
+            <sys_updated_on>2025-09-08 20:08:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>release_date</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-08 20:08:49</sys_created_on>
+            <sys_id>0a940cfa83ff2610d8e7f2d6feaad365</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Media" display_value="Media" name="x_683127_sharkflix_media" sys_domain="global" view="Default view">60951326833f2610d8e7f2d6feaad3d8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-08 20:08:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>category</element>
-            <position>8</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-08 16:56:26</sys_created_on>
-            <sys_id>44985be6833f2610d8e7f2d6feaad36f</sys_id>
+            <sys_created_on>2025-09-08 20:08:49</sys_created_on>
+            <sys_id>8e940cfa83ff2610d8e7f2d6feaad365</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Media" display_value="Media" name="x_683127_sharkflix_media" sys_domain="global" view="Default view">60951326833f2610d8e7f2d6feaad3d8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-08 16:56:26</sys_updated_on>
+            <sys_updated_on>2025-09-08 20:08:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>9</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-08 16:56:26</sys_created_on>
-            <sys_id>c8985be6833f2610d8e7f2d6feaad36f</sys_id>
+            <sys_created_on>2025-09-08 20:08:49</sys_created_on>
+            <sys_id>06940cfa83ff2610d8e7f2d6feaad366</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Media" display_value="Media" name="x_683127_sharkflix_media" sys_domain="global" view="Default view">60951326833f2610d8e7f2d6feaad3d8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-08 16:56:26</sys_updated_on>
+            <sys_updated_on>2025-09-08 20:08:49</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>synopsis</element>
-            <position>10</position>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-08 16:56:26</sys_created_on>
-            <sys_id>40985be6833f2610d8e7f2d6feaad370</sys_id>
+            <sys_created_on>2025-09-08 20:08:49</sys_created_on>
+            <sys_id>8a940cfa83ff2610d8e7f2d6feaad366</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Media" display_value="Media" name="x_683127_sharkflix_media" sys_domain="global" view="Default view">60951326833f2610d8e7f2d6feaad3d8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-08 16:56:26</sys_updated_on>
+            <sys_updated_on>2025-09-08 20:08:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>writers</element>
-            <position>11</position>
+            <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-08 16:56:26</sys_created_on>
-            <sys_id>c4985be6833f2610d8e7f2d6feaad370</sys_id>
+            <sys_created_on>2025-09-08 20:08:49</sys_created_on>
+            <sys_id>02940cfa83ff2610d8e7f2d6feaad367</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Media" display_value="Media" name="x_683127_sharkflix_media" sys_domain="global" view="Default view">60951326833f2610d8e7f2d6feaad3d8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-08 16:56:26</sys_updated_on>
+            <sys_updated_on>2025-09-08 20:08:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>production</element>
-            <position>12</position>
+            <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-08 16:56:26</sys_created_on>
-            <sys_id>4c985be6833f2610d8e7f2d6feaad370</sys_id>
+            <sys_created_on>2025-09-08 20:08:49</sys_created_on>
+            <sys_id>86940cfa83ff2610d8e7f2d6feaad367</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Media" display_value="Media" name="x_683127_sharkflix_media" sys_domain="global" view="Default view">60951326833f2610d8e7f2d6feaad3d8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-08 16:56:26</sys_updated_on>
+            <sys_updated_on>2025-09-08 20:08:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>website</element>
-            <position>13</position>
+            <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-08 16:56:26</sys_created_on>
-            <sys_id>c0985be6833f2610d8e7f2d6feaad371</sys_id>
+            <sys_created_on>2025-09-08 20:08:49</sys_created_on>
+            <sys_id>0e940cfa83ff2610d8e7f2d6feaad367</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Media" display_value="Media" name="x_683127_sharkflix_media" sys_domain="global" view="Default view">60951326833f2610d8e7f2d6feaad3d8</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-08 16:56:26</sys_updated_on>
+            <sys_updated_on>2025-09-08 20:08:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
