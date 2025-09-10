@@ -3,7 +3,23 @@
         <element label="Production" max_length="250" name="production" type="string"/>
         <element label="Genre" max_length="1024" name="genre" reference="x_683127_sharkflix_genre" type="glide_list"/>
         <element label="Release Year" max_length="4" name="release_year" type="string"/>
+        <element label="Integration Error Message" max_length="1000" name="integration_error_message" type="string"/>
         <element default="0" label="Average Rating" max_length="255" name="average_rating" type="float"/>
+        <element choice="1" default="1" label="Integration State" max_length="40" name="integration_state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Starting" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Media not Found" sequence="4" value="7"/>
+                <element inactive_on_update="false" label="Integrating" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Integration Success" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="Integration Failure" sequence="3" value="4"/>
+            </choice>
+        </element>
+        <element choice="1" default="1" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Completed" sequence="1" value="3"/>
+                <element inactive_on_update="false" label="Draft" sequence="0" value="1"/>
+            </choice>
+        </element>
         <element label="Writers" max_length="4000" name="writers" type="string"/>
         <element choice="1" label="Type" max_length="40" name="type" type="choice">
             <choice>

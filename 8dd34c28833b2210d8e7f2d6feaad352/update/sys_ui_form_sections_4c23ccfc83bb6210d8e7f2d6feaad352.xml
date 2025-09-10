@@ -42,6 +42,20 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2025-09-02 14:54:33</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-09 12:52:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d16a2bb683332210d8e7f2d6feaad381</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_683127_sharkflix_media" name="x_683127_sharkflix_media" sys_domain="global" view="Default view">4c23ccfc83bb6210d8e7f2d6feaad352</sys_ui_form>
+            <sys_ui_section caption="Integration" display_value="Integration" name="x_683127_sharkflix_media" sys_domain="global" view="Default view">cd6ae7b683332210d8e7f2d6feaad3ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-09 12:52:49</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_683127_sharkflix_media</name>
             <roles/>
