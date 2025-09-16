@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>true</advanced>
+        <applies_to/>
+        <condition/>
+        <decision_type>allow</decision_type>
+        <description>Allow write for records in x_683127_sharkflix_media, for users with role itil, and if the ACL script returns true.</description>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_683127_sharkflix_media</name>
+        <operation display_value="write">write</operation>
+        <script><![CDATA[if (current.state == 'Completed') {
+    answer = false;
+} else {
+    answer = true;
+}]]></script>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-15 17:02:01</sys_created_on>
+        <sys_id>f468137083443210d8e7f2d6feaad37d</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>x_683127_sharkflix_media</sys_name>
+        <sys_package display_value="Sharkflix" source="x_683127_sharkflix">8dd34c28833b2210d8e7f2d6feaad352</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sharkflix">8dd34c28833b2210d8e7f2d6feaad352</sys_scope>
+        <sys_update_name>sys_security_acl_f468137083443210d8e7f2d6feaad37d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-15 17:32:53</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_es_latest_script action="DELETE">
+        <id>f468137083443210d8e7f2d6feaad37d</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-15 17:32:50</sys_created_on>
+        <sys_id>2904633c83443210d8e7f2d6feaad393</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-15 17:32:50</sys_updated_on>
+        <table>sys_security_acl</table>
+        <use_es_latest>true</use_es_latest>
+    </sys_es_latest_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Sharkflix">8dd34c28833b2210d8e7f2d6feaad352</application>
+        <file_path/>
+        <instance_id>c7d310021b524a5078c7cb7b234bcb85</instance_id>
+        <instance_name>dev272523</instance_name>
+        <name>sys_security_acl_f468137083443210d8e7f2d6feaad37d</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_security_acl"&gt;&lt;sys_security_acl action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;admin_overrides&gt;true&lt;/admin_overrides&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;applies_to/&gt;&lt;condition/&gt;&lt;decision_type&gt;allow&lt;/decision_type&gt;&lt;description&gt;Allow write for records in x_683127_sharkflix_media, for users with role itil, and if the ACL script returns true.&lt;/description&gt;&lt;local_or_existing&gt;Local&lt;/local_or_existing&gt;&lt;name&gt;x_683127_sharkflix_media&lt;/name&gt;&lt;operation display_value="write"&gt;write&lt;/operation&gt;&lt;script&gt;&lt;![CDATA[if (current.state == 'Completed') {
+    answer = false;
+} else {
+    answer = true;
+}]]&gt;&lt;/script&gt;&lt;security_attribute/&gt;&lt;sys_class_name&gt;sys_security_acl&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-09-15 17:02:01&lt;/sys_created_on&gt;&lt;sys_id&gt;f468137083443210d8e7f2d6feaad37d&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name&gt;x_683127_sharkflix_media&lt;/sys_name&gt;&lt;sys_package display_value="Sharkflix" source="x_683127_sharkflix"&gt;8dd34c28833b2210d8e7f2d6feaad352&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Sharkflix"&gt;8dd34c28833b2210d8e7f2d6feaad352&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_security_acl_f468137083443210d8e7f2d6feaad37d&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-09-15 17:32:53&lt;/sys_updated_on&gt;&lt;type display_value="record"&gt;record&lt;/type&gt;&lt;/sys_security_acl&gt;&lt;sys_es_latest_script action="INSERT_OR_UPDATE"&gt;&lt;id&gt;f468137083443210d8e7f2d6feaad37d&lt;/id&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-09-15 17:32:50&lt;/sys_created_on&gt;&lt;sys_id&gt;2904633c83443210d8e7f2d6feaad393&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-09-15 17:32:50&lt;/sys_updated_on&gt;&lt;table&gt;sys_security_acl&lt;/table&gt;&lt;use_es_latest&gt;true&lt;/use_es_latest&gt;&lt;/sys_es_latest_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-193344707</payload_hash>
+        <record_name>x_683127_sharkflix_media</record_name>
+        <reverted_from/>
+        <source>8bdb4460837b2210d8e7f2d6feaad3b5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-15 17:32:53</sys_created_on>
+        <sys_id>d604ebfc83443210d8e7f2d6feaad384</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1994e6fcada0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-15 17:32:53</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>5e04ebfc524432105a9a7c30e9c49383</update_guid>
+        <update_guid_history>5e04ebfc524432105a9a7c30e9c49383:-193344707,57ef9bb8ec443210da1350befd013ff9:1224193685,d2bf1778c1443210f023647751f046b4:-1374732822,12fc5b7470443210fd906079256cb5a0:-1378246384</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-15 17:41:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>1e45fe75a7c14ac48b7ace029931f910</sys_id>
+        <sys_metadata>f468137083443210d8e7f2d6feaad37d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_683127_sharkflix_media</sys_name>
+        <sys_package display_value="Sharkflix" source="x_683127_sharkflix">8dd34c28833b2210d8e7f2d6feaad352</sys_package>
+        <sys_parent display_value="x_683127_sharkflix_media">57aa776483bb6210d8e7f2d6feaad309</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Sharkflix">8dd34c28833b2210d8e7f2d6feaad352</sys_scope>
+        <sys_scope_delete display_value="">54ef2388422040d29f59670cc29cc544</sys_scope_delete>
+        <sys_update_name>sys_security_acl_f468137083443210d8e7f2d6feaad37d</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_f468137083443210d8e7f2d6feaad37d">d604ebfc83443210d8e7f2d6feaad384</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-15 17:41:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
